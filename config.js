@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Em à!',
+    introTitle: 'Emmm iuuuu à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'Không, Anh trai à :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Yêu thì yêu mà không yêu thì cũngggg yêuu a ạaaa <33333333',
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Chiều nay 4h anh qua đón em nhé.',
+    messDesc: . 'Đừngggg ăn hiếpp a nữa nháaa công chúaa🥰😘',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://m.me/ptg.beu
 }
